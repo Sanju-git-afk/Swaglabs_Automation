@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Swaglabs">
+    <test name="Login Test">
+        <classes>
+          <!--  <class name="testcases.LoginTest"/>-->
+           <!-- <class name="testcases.LoginTestDD"></class> -->
+           <!-- <class name="testcases.LogoutTest"></class> -->
+         <!-- <class name="testcases.CartaddTest"></class>-->
+           <!-- <class name="testcases.CheckoutTest"></class> -->
+          <!--  <class name="testcases.ExcelDDTest"></class>-->
+
+        </classes>
+    </test>
+</suite>
